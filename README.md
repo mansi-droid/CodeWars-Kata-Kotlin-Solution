@@ -1,6 +1,9 @@
 # CodeWars Kata Kotlin
 Codewars Kata with Kotlin language.
 
+![codewars](https://github.com/mansi-droid/CodeWars-Kata-Kotlin-Solution/assets/46253843/57cf4a29-4fb0-4192-b4c5-9c8d5e675e37)
+![kotlin](https://github.com/mansi-droid/CodeWars-Kata-Kotlin-Solution/assets/46253843/a6859a4b-0b09-45b3-9a41-8a0db238dc64)
+
 
 ## 8 Kyu Katas
 1. [Even or Odd](https://github.com/mansi-droid/CodeWars_Kata_Kotlin/blob/master/app/src/main/java/com/dev/codewarskotlin/eight-kyu-katas/Even_or_Odd.kt)
